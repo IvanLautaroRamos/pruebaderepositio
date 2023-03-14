@@ -1,0 +1,23 @@
+{
+  "name": "pruebaderepositoriolocal",
+  "version": "0.0.1",
+  "description": "es una prueba de hacer un repositorio local",
+  "keywords": [""],
+  "homepage": "",
+  "bugs": {"url":"",
+"email": "ivanramos_8@hotmail.com"},
+"license": "MIT",
+"author": {
+  "name":"Ivan Lautaro Ramos",
+  "email": "ivanramos_8@hotmail.com",
+  "url":"https://github.com/IvanLautaroRamos"
+},
+  "peerDependencies": {
+    "@angular/common": "^15.1.0",
+    "@angular/core": "^15.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
